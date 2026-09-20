@@ -1,71 +1,161 @@
-# Sales Performance Dashboard | Microsoft Excel
+# 📊 Sales Performance Dashboard
 
-An interactive **Sales Performance Dashboard built entirely in Microsoft Excel** to analyze sales performance across products, regions, and months.
+## 📌 Project Overview
 
-![Sales Performance Dashboard](Images/Sales-Performance-Dashboard.png)
-
-## 📊 Dashboard Overview
-
-This dashboard provides a visual summary of key sales metrics and allows users to interactively explore the data using filters and slicers.
-
-### Key Metrics
-
-* **Total Sales:** 9,418
-* **Total Sold Quantity:** 336
-* **Average Sales per Order:** 1,411.30
-* **Product Categories:** 3
-
-### Dashboard Visualizations
-
-* **Top Sales by Product** — compares sales performance across products
-* **Regional Sales Distribution** — shows the percentage contribution of each region
-* **Monthly Sales Performance** — tracks sales trends across months
-* **Interactive Filters** — allows users to filter the dashboard by:
-
-  * Region
-  * Product
-  * Month
-
-## 🛠️ Tools & Excel Features Used
-
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* KPI Cards
-* Data Visualization
-* Dashboard Design
-* Excel Formulas
-* Data Analysis
-
-## 🎯 Project Objective
-
-The goal of this project was to transform sales data into an interactive and easy-to-understand dashboard that can help users quickly identify sales trends, compare regional performance, and analyze product performance.
-
-## 💡 Key Learnings
-
-Through this project, I practiced:
-
-* Organizing and analyzing structured data
-* Creating interactive Pivot Table-based dashboards
-* Building KPI cards for important business metrics
-* Using slicers for interactive filtering
-* Selecting appropriate charts for different types of analysis
-* Designing a professional and user-friendly dashboard
-
-## 📁 Project Files
-
-* `Sales Performance Dashboard.xlsx` — Excel dashboard
-* `sales-performance-dashboard.png` — Dashboard preview
-
-## 🚀 Future Improvements
-
-I plan to continue improving this project by exploring more advanced data analytics techniques and tools such as **Power BI, SQL, and Python**.
+The **Sales Performance Dashboard** is an interactive business analytics project designed to provide a clear overview of sales performance across products, regions, and months. The dashboard combines key performance indicators (KPIs), product-level analysis, regional sales distribution, monthly trends, and interactive filters into a single visual interface.
 
 ---
 
-### 👤 Author
+## 🖼️ Dashboard Preview
 
-**Rafijul**
+dashboard/Sales_Performance_Dashboard.png
 
-Aspiring Data Analyst | Excel | Power BI | SQL | Data Visualization
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+- 💰 Monitor overall sales performance
+- 🛒 Track total quantity sold
+- 📊 Analyze average sales per order
+- 📦 Monitor the number of product categories
+- 🏆 Identify top-performing products
+- 🌍 Compare sales performance across regions
+- 📅 Analyze monthly sales trends
+- 🔍 Enable interactive analysis using filters
+
+---
+
+## 🔢 Key Performance Indicators
+
+The dashboard displays four primary KPIs:
+
+- 💰 **Total Sales:** 9,418
+- 🛒 **Total Sold Quantity:** 336
+- 📈 **Average Sales per Order:** 1,411.30
+- 📦 **Product Categories:** 3
+
+---
+
+## 📊 Dashboard Features
+
+### 🏆 Top Sales by Product
+
+The product analysis compares sales performance across products such as:
+
+- Keyboard
+- Laptop
+- Printer
+- Tablet
+- Headset
+- Webcam
+- Mouse
+- Monitor
+
+This visualization makes it easier to identify differences in sales performance across individual products.
+
+### 🌍 Regional Sales Distribution
+
+The dashboard provides a regional sales breakdown across:
+
+- 🔵 East
+- 🟠 North
+- 🟢 South
+- 🔷 West
+
+The donut chart provides a quick visual comparison of regional contribution to sales.
+
+---
+
+### 📅 Monthly Sales Performance
+
+The monthly performance section visualizes sales across:
+
+- January
+- February
+- March
+- April
+- May
+
+The combination chart provides a clear view of changes in sales performance over time.
+
+---
+
+## 🎛️ Interactive Dashboard Filters
+
+The dashboard includes interactive filters for:
+
+### 🌍 Region
+- East
+- North
+- South
+- West
+
+### 📦 Product
+Users can select individual products to analyze their performance.
+
+### 📅 Month
+Users can filter the dashboard by individual months from January through May.
+
+These filters allow the dashboard to support more focused and dynamic analysis.
+
+---
+
+## 💡 Business Questions Addressed
+
+The dashboard helps answer questions such as:
+
+1. 💰 What is the overall sales performance?
+2. 🛒 How many units have been sold?
+3. 📈 What is the average sales value per order?
+4. 🏆 Which products generate the highest sales?
+5. 🌍 How are sales distributed across regions?
+6. 📅 How does sales performance change by month?
+7. 🔍 How does performance change when filtering by product, region, or month?
+
+---
+
+## 🛠️ Tools & Techniques
+
+This project demonstrates the use of:
+
+- 📊 Dashboard Design
+- 📈 Data Visualization
+- 🔢 KPI Development
+- 🎛️ Interactive Filters/Slicers
+- 📉 Sales Trend Analysis
+- 🌍 Regional Analysis
+- 📦 Product Analysis
+- 💡 Business Intelligence Concepts
+
+---
+
+## 📈 Skills Demonstrated
+
+- ✅ Sales Data Analysis
+- ✅ Dashboard Development
+- ✅ KPI Design
+- ✅ Business Data Visualization
+- ✅ Interactive Reporting
+- ✅ Trend Analysis
+- ✅ Product Performance Analysis
+- ✅ Regional Performance Analysis
+- ✅ Data Storytelling
+
+## 🎨 Dashboard Design
+
+The dashboard follows a clean and structured visual design using a consistent green color theme.
+
+Key design elements include:
+
+- 🔢 KPI cards for headline metrics
+- 📊 Horizontal bar chart for product sales
+- 🍩 Donut chart for regional distribution
+- 📈 Combination chart for monthly performance
+- 🎛️ Interactive slicers for Region, Product, and Month
+- 🟢 Consistent green visual theme
+- 📐 Structured dashboard layout for easy navigation
+
+## 👤 Author
+Rafijul Islam
