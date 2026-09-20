@@ -8,8 +8,7 @@ The **Sales Performance Dashboard** is an interactive business analytics project
 
 ## 🖼️ Dashboard Preview
 
-dashboard/Sales_Performance_Dashboard.png
-
+![Dasboard Preview](Image/Sales-Performance-Dashboard-Excel)
 ---
 
 ## 🎯 Project Objectives
@@ -54,6 +53,8 @@ The product analysis compares sales performance across products such as:
 - Monitor
 
 This visualization makes it easier to identify differences in sales performance across individual products.
+
+---
 
 ### 🌍 Regional Sales Distribution
 
