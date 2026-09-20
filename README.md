@@ -8,7 +8,7 @@ The **Sales Performance Dashboard** is an interactive business analytics project
 
 ## 🖼️ Dashboard Preview
 
-![Dasboard Preview](Image/Sales-Performance-Dashboard-Excel)
+![Dasboard Preview](Sales-Performance-Dashboard-Excel/Image)
 ---
 
 ## 🎯 Project Objectives
